@@ -1,0 +1,15 @@
+﻿'E-Commerce Management System.exe' (Win32): Loaded 'C:\Users\92315\source\repos\oop project\Debug\E-Commerce Management System.exe'. Symbols loaded.
+'E-Commerce Management System.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'E-Commerce Management System.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'E-Commerce Management System.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'E-Commerce Management System.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'E-Commerce Management System.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'E-Commerce Management System.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x8b8 has exited with code 0 (0x0).
+'E-Commerce Management System.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'E-Commerce Management System.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'E-Commerce Management System.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'E-Commerce Management System.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+The thread 0x1b88 has exited with code 0 (0x0).
+The thread 0x670 has exited with code 0 (0x0).
+The program '[7012] E-Commerce Management System.exe' has exited with code 0 (0x0).
